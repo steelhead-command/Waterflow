@@ -24,4 +24,4 @@ Waterflow uses public data from the [USGS Water Services API](https://waterservi
 
 ## Privacy
 
-See the privacy policy: _link to be added once hosted_
+See the [privacy policy](privacy.md).
